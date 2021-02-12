@@ -1,2 +1,2 @@
-# Ссылка на форму: https://torontotokyo.github.io/form-r-validate/
+# Ссылка на форму: https://torontotokyo.github.io/form-reg-valid/
 
